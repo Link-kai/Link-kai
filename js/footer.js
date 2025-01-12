@@ -1,6 +1,6 @@
 // 动态心跳
 $(document).ready(function(e){
-    $('.copyright').html('©2023 - 2023 <i class="fa-fw fas fa-heartbeat fa-beat" style="color: #f92672;"></i> By Link');
+    $('.copyright').html('©2023 - 2025 <i class="fa-fw fas fa-heartbeat fa-beat" style="color: #f92672;"></i> By Link');
 })
 
 $(document).ready(function(e){
