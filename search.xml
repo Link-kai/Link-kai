@@ -13,14 +13,14 @@
       
       <categories>
           
-          <category> -学习 </category>
+          <category> 学习 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> -课程 -机器人 </tag>
+            <tag> 课程 </tag>
             
         </tags>
       
@@ -38,14 +38,14 @@
       
       <categories>
           
-          <category> -学习 </category>
+          <category> 学习 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> -课程 -编译原理 </tag>
+            <tag> 课程 </tag>
             
         </tags>
       
@@ -63,14 +63,14 @@
       
       <categories>
           
-          <category> -学习 </category>
+          <category> 学习 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> -课程 -汇编 </tag>
+            <tag> 课程 </tag>
             
         </tags>
       
@@ -88,14 +88,14 @@
       
       <categories>
           
-          <category> -学习 </category>
+          <category> 学习 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> -课程 -操作系统 </tag>
+            <tag> 课程 </tag>
             
         </tags>
       
@@ -113,14 +113,14 @@
       
       <categories>
           
-          <category> -学习 </category>
+          <category> 学习 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> -课程 -统计学 </tag>
+            <tag> 课程 </tag>
             
         </tags>
       
@@ -138,14 +138,14 @@
       
       <categories>
           
-          <category> -生活 </category>
+          <category> 生活 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> -SCAU </tag>
+            <tag> 转专业 </tag>
             
         </tags>
       
@@ -163,14 +163,14 @@
       
       <categories>
           
-          <category> -学习 </category>
+          <category> 学习 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> -C++ -STL </tag>
+            <tag> C++ </tag>
             
         </tags>
       
@@ -188,14 +188,14 @@
       
       <categories>
           
-          <category> -项目 </category>
+          <category> 项目 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> -NLP -随机森林 -意图分类 </tag>
+            <tag> NLP </tag>
             
         </tags>
       
@@ -213,14 +213,14 @@
       
       <categories>
           
-          <category> -项目 </category>
+          <category> 项目 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> -三维点云 </tag>
+            <tag> 三维点云 </tag>
             
         </tags>
       
@@ -238,14 +238,14 @@
       
       <categories>
           
-          <category> -学习 </category>
+          <category> 学习 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> -SLAM </tag>
+            <tag> SLAM </tag>
             
         </tags>
       
@@ -263,14 +263,14 @@
       
       <categories>
           
-          <category> -项目 </category>
+          <category> 项目 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> -开发 </tag>
+            <tag> 开发 </tag>
             
         </tags>
       
@@ -288,14 +288,14 @@
       
       <categories>
           
-          <category> -学习 </category>
+          <category> 学习 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> -课程 -机器学习 </tag>
+            <tag> 机器学习 </tag>
             
         </tags>
       
@@ -313,14 +313,14 @@
       
       <categories>
           
-          <category> -学习 </category>
+          <category> 学习 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> -课程 -计算智能 </tag>
+            <tag> 课程 </tag>
             
         </tags>
       
@@ -338,14 +338,14 @@
       
       <categories>
           
-          <category> -学习 </category>
+          <category> 学习 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> -cv </tag>
+            <tag> opencv </tag>
             
         </tags>
       
@@ -363,14 +363,14 @@
       
       <categories>
           
-          <category> -生活 </category>
+          <category> 生活 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> -任务 </tag>
+            <tag> 任务 </tag>
             
         </tags>
       
@@ -388,14 +388,14 @@
       
       <categories>
           
-          <category> -学习 </category>
+          <category> 学习 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> -课程 -数据结构 </tag>
+            <tag> 课程 </tag>
             
         </tags>
       
@@ -413,14 +413,14 @@
       
       <categories>
           
-          <category> -生活 </category>
+          <category> 生活 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> -关于 </tag>
+            <tag> 关于 </tag>
             
         </tags>
       
@@ -438,14 +438,14 @@
       
       <categories>
           
-          <category> -生活 </category>
+          <category> 生活 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> -投喂作者 </tag>
+            <tag> 投喂作者 </tag>
             
         </tags>
       
@@ -463,14 +463,14 @@
       
       <categories>
           
-          <category> -项目 </category>
+          <category> 项目 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> -开发日志 </tag>
+            <tag> 开发日志 </tag>
             
         </tags>
       
